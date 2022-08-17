@@ -1,0 +1,20 @@
+{
+    "start_url": "/",
+    "name": "Shashwat",
+    "short_name": "Proxima",
+    "icons": [
+      {
+        "src": "/bio/assets/Favicon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/bio/assets/Favicon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#fcf5f3",
+    "background_color": "#fcf5f3",
+    "display": "standalone"
+  }
